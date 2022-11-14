@@ -1,0 +1,15 @@
+<Test>
+  <Name>probabilistic-v2v-channel-condition-model</Name>
+  <Result>PASS</Result>
+  <Time real="46.420" user="42.950" system="0.110"/>
+  <Test>
+    <Name>Test case for the class ProbabilisticV2vUrbanChannelConditionModel</Name>
+    <Result>PASS</Result>
+    <Time real="26.860" user="24.120" system="0.050"/>
+  </Test>
+  <Test>
+    <Name>Test case for the class ProbabilisticV2vHighwayChannelConditionModel</Name>
+    <Result>PASS</Result>
+    <Time real="19.560" user="18.830" system="0.060"/>
+  </Test>
+</Test>

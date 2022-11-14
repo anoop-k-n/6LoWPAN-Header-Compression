@@ -1,0 +1,25 @@
+<Test>
+  <Name>lte-pss-ff-mac-scheduler</Name>
+  <Result>PASS</Result>
+  <Time real="25.350" user="23.110" system="0.030"/>
+  <Test>
+    <Name>1 UEs, distance 100000 m</Name>
+    <Result>PASS</Result>
+    <Time real="2.340" user="2.040" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>distances (m) = [ 0 4800 6000 10000 ]</Name>
+    <Result>PASS</Result>
+    <Time real="8.580" user="7.530" system="0.020"/>
+  </Test>
+  <Test>
+    <Name>distances (m) = [ 0 4800 6000 10000 ]</Name>
+    <Result>PASS</Result>
+    <Time real="7.820" user="7.290" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>distances (m) = [ 0 4800 6000 ]</Name>
+    <Result>PASS</Result>
+    <Time real="6.610" user="6.250" system="0.000"/>
+  </Test>
+</Test>

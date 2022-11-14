@@ -1,0 +1,50 @@
+<Test>
+  <Name>lte-cqi-generation</Name>
+  <Result>PASS</Result>
+  <Time real="53.170" user="49.930" system="0.110"/>
+  <Test>
+    <Name>Downlink Power Control: UsePdcchForCqiGeneration</Name>
+    <Result>PASS</Result>
+    <Time real="4.190" user="4.100" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Downlink Power Control: UsePdschForCqiGeneration</Name>
+    <Result>PASS</Result>
+    <Time real="4.840" user="4.480" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Downlink Power Control: CqiGenerationWithDlPowerControl</Name>
+    <Result>PASS</Result>
+    <Time real="5.750" user="5.710" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Downlink Power Control: CqiGenerationWithDlPowerControl</Name>
+    <Result>PASS</Result>
+    <Time real="5.870" user="5.640" system="0.020"/>
+  </Test>
+  <Test>
+    <Name>Downlink Power Control: CqiGenerationWithDlPowerControl</Name>
+    <Result>PASS</Result>
+    <Time real="6.260" user="5.750" system="0.030"/>
+  </Test>
+  <Test>
+    <Name>Downlink Power Control: CqiGenerationWithDlPowerControl</Name>
+    <Result>PASS</Result>
+    <Time real="6.600" user="6.200" system="0.030"/>
+  </Test>
+  <Test>
+    <Name>Downlink Power Control: CqiGenerationWithDlPowerControl</Name>
+    <Result>PASS</Result>
+    <Time real="6.260" user="5.970" system="0.020"/>
+  </Test>
+  <Test>
+    <Name>Downlink Power Control: CqiGenerationWithDlPowerControl</Name>
+    <Result>PASS</Result>
+    <Time real="6.600" user="5.970" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Downlink Power Control: CqiGenerationWithDlPowerControl</Name>
+    <Result>PASS</Result>
+    <Time real="6.800" user="6.110" system="0.000"/>
+  </Test>
+</Test>

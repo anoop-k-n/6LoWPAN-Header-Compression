@@ -1,0 +1,10 @@
+<Test>
+  <Name>wifi-issue-211</Name>
+  <Result>PASS</Result>
+  <Time real="11.960" user="11.770" system="0.000"/>
+  <Test>
+    <Name>Test case for resuming data transmission when the recipient moves back</Name>
+    <Result>PASS</Result>
+    <Time real="11.960" user="11.770" system="0.000"/>
+  </Test>
+</Test>

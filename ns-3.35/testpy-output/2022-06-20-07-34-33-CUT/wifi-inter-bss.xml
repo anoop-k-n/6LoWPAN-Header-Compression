@@ -1,0 +1,10 @@
+<Test>
+  <Name>wifi-inter-bss</Name>
+  <Result>PASS</Result>
+  <Time real="3.950" user="3.900" system="0.000"/>
+  <Test>
+    <Name>InterBssConstantObssPd</Name>
+    <Result>PASS</Result>
+    <Time real="3.950" user="3.900" system="0.000"/>
+  </Test>
+</Test>

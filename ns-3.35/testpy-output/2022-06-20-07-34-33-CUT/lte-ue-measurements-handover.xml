@@ -1,0 +1,30 @@
+<Test>
+  <Name>lte-ue-measurements-handover</Name>
+  <Result>PASS</Result>
+  <Time real="13.510" user="12.100" system="0.020"/>
+  <Test>
+    <Name>Handover test case - increasing report interval</Name>
+    <Result>PASS</Result>
+    <Time real="2.480" user="2.430" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Handover test case - Event A4 to Event A3</Name>
+    <Result>PASS</Result>
+    <Time real="2.480" user="2.400" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Handover test case - Event A2 threshold difference</Name>
+    <Result>PASS</Result>
+    <Time real="2.810" user="2.420" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Handover test case - Event A3 offset difference</Name>
+    <Result>PASS</Result>
+    <Time real="3.100" user="2.410" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Handover test case - decreasing TTT (short)</Name>
+    <Result>PASS</Result>
+    <Time real="2.640" user="2.440" system="0.000"/>
+  </Test>
+</Test>

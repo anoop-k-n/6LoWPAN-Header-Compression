@@ -1,0 +1,45 @@
+<Test>
+  <Name>lte-ue-measurements-piecewise-2</Name>
+  <Result>PASS</Result>
+  <Time real="42.170" user="38.600" system="0.090"/>
+  <Test>
+    <Name>Piecewise test case 2 - Event A3 with positive offset</Name>
+    <Result>PASS</Result>
+    <Time real="4.810" user="4.460" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Piecewise test case 2 - Event A3 with super time-to-trigger</Name>
+    <Result>PASS</Result>
+    <Time real="5.390" user="4.960" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Piecewise test case 2 - Event A3 with hysteresis</Name>
+    <Result>PASS</Result>
+    <Time real="5.470" user="5.020" system="0.020"/>
+  </Test>
+  <Test>
+    <Name>Piecewise test case 2 - Event A4 with very low threshold</Name>
+    <Result>PASS</Result>
+    <Time real="5.400" user="4.710" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Piecewise test case 2 - Event A4 with short time-to-trigger</Name>
+    <Result>PASS</Result>
+    <Time real="4.700" user="4.230" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Piecewise test case 2 - Event A4 with hysteresis</Name>
+    <Result>PASS</Result>
+    <Time real="5.660" user="4.930" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Piecewise test case 2 - Event A5 with super time-to-trigger</Name>
+    <Result>PASS</Result>
+    <Time real="5.350" user="5.150" system="0.040"/>
+  </Test>
+  <Test>
+    <Name>Piecewise test case 2 - Event A5 with hysteresis</Name>
+    <Result>PASS</Result>
+    <Time real="5.390" user="5.140" system="0.010"/>
+  </Test>
+</Test>

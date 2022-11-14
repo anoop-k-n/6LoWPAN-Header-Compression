@@ -1,0 +1,90 @@
+<Test>
+  <Name>wifi-devices</Name>
+  <Result>PASS</Result>
+  <Time real="3.010" user="2.870" system="0.000"/>
+  <Test>
+    <Name>Wifi</Name>
+    <Result>PASS</Result>
+    <Time real="0.640" user="0.630" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>QosUtilsIsOldPacket</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>InterferenceHelperSequence</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for DCF immediate access with broadcast frames</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for Bug 730</Name>
+    <Result>PASS</Result>
+    <Time real="0.850" user="0.850" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for fragmentation with QoS stations</Name>
+    <Result>PASS</Result>
+    <Time real="0.100" user="0.100" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for setting WifiPhy channel and frequency</Name>
+    <Result>PASS</Result>
+    <Time real="0.150" user="0.040" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for Bug 2222</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for Bug 2843</Name>
+    <Result>PASS</Result>
+    <Time real="0.060" user="0.060" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for Bug 2831</Name>
+    <Result>PASS</Result>
+    <Time real="0.070" user="0.060" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for StaWifiMac scanning capability</Name>
+    <Result>PASS</Result>
+    <Time real="0.190" user="0.190" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for Bug 2470</Name>
+    <Result>PASS</Result>
+    <Time real="0.110" user="0.110" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for issue #40</Name>
+    <Result>PASS</Result>
+    <Time real="0.270" user="0.260" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for issue #169</Name>
+    <Result>PASS</Result>
+    <Time real="0.090" user="0.090" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for use of channel bonding with Ideal rate manager</Name>
+    <Result>PASS</Result>
+    <Time real="0.120" user="0.120" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for use of imbalanced MIMO settings with Ideal rate manager</Name>
+    <Result>PASS</Result>
+    <Time real="0.340" user="0.340" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check data rates for different RU types.</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.000" system="0.000"/>
+  </Test>
+</Test>

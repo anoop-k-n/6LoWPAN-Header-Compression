@@ -1,0 +1,15 @@
+<Test>
+  <Name>lte-fdbet-ff-mac-scheduler</Name>
+  <Result>PASS</Result>
+  <Time real="5.510" user="5.250" system="0.060"/>
+  <Test>
+    <Name>1 UEs, distance 100000 m</Name>
+    <Result>PASS</Result>
+    <Time real="0.560" user="0.530" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>distances (m) = [ 0 4800 6000 10000 20000 ]</Name>
+    <Result>PASS</Result>
+    <Time real="4.950" user="4.720" system="0.060"/>
+  </Test>
+</Test>

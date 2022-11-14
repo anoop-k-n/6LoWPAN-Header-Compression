@@ -1,0 +1,25 @@
+<Test>
+  <Name>lte-radio-link-failure</Name>
+  <Result>PASS</Result>
+  <Time real="31.400" user="30.860" system="0.340"/>
+  <Test>
+    <Name>1 eNBs, 1 UEs, RRC Ideal Protocol</Name>
+    <Result>PASS</Result>
+    <Time real="6.680" user="6.580" system="0.060"/>
+  </Test>
+  <Test>
+    <Name>1 eNBs, 1 UEs, RRC Real Protocol</Name>
+    <Result>PASS</Result>
+    <Time real="6.840" user="6.700" system="0.060"/>
+  </Test>
+  <Test>
+    <Name>2 eNBs, 1 UEs, RRC Ideal Protocol</Name>
+    <Result>PASS</Result>
+    <Time real="8.030" user="7.920" system="0.060"/>
+  </Test>
+  <Test>
+    <Name>2 eNBs, 1 UEs, RRC Real Protocol</Name>
+    <Result>PASS</Result>
+    <Time real="9.850" user="9.660" system="0.160"/>
+  </Test>
+</Test>

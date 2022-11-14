@@ -1,0 +1,10 @@
+<Test>
+  <Name>lte-ue-measurements</Name>
+  <Result>PASS</Result>
+  <Time real="2.920" user="2.880" system="0.010"/>
+  <Test>
+    <Name>d1=5000, d2=10000</Name>
+    <Result>PASS</Result>
+    <Time real="2.920" user="2.880" system="0.010"/>
+  </Test>
+</Test>

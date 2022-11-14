@@ -1,0 +1,10 @@
+<Test>
+  <Name>lte-ipv6-routing-test</Name>
+  <Result>PASS</Result>
+  <Time real="45.940" user="40.500" system="0.060"/>
+  <Test>
+    <Name>Test IPv6 Routing at LTE</Name>
+    <Result>PASS</Result>
+    <Time real="45.940" user="40.500" system="0.060"/>
+  </Test>
+</Test>

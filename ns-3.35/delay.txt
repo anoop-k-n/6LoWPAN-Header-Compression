@@ -1,0 +1,15 @@
+5kbps    4.08 ms
+10kbps   5.104 ms
+20kbps   7.152 ms
+40kbps   11.248 ms
+60kbps   15.344 ms
+80kbps   19.44 ms
+100kbps  23.536 ms
+120kbps  31.105 ms
+140kbps   
+160kbps  39.2974 ms  
+200kbps  47.4364 ms
+300kbps
+320kbps  78.6322 ms
+400kbps  95.0162 ms
+500kbps  

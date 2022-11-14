@@ -1,0 +1,20 @@
+<Test>
+  <Name>three-gpp-channel</Name>
+  <Result>PASS</Result>
+  <Time real="12.580" user="10.770" system="0.000"/>
+  <Test>
+    <Name>Check the dimensions and the norm of the channel matrix</Name>
+    <Result>PASS</Result>
+    <Time real="12.190" user="10.400" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check if the channel realizations are correctly updated during the simulation</Name>
+    <Result>PASS</Result>
+    <Time real="0.050" user="0.040" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for the ThreeGppSpectrumPropagationLossModel class</Name>
+    <Result>PASS</Result>
+    <Time real="0.340" user="0.330" system="0.000"/>
+  </Test>
+</Test>
